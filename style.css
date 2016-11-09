@@ -1,0 +1,105 @@
+/* Here goes your CSS */
+
+/* Here goes your CSS */
+body {
+  text-align: center;
+  background-color: #F2F3EE;
+  font-family: time;
+  font-size: 20px;
+  line-height: 15px;
+}
+
+h1 {
+  color: black;
+  font-size: 35px;
+  line-height: 15px;
+}
+
+h2 {
+  color: black;
+  font-size: 23px;
+  line-height: 15px;
+  text-align: center;
+}
+
+h3 {
+  color : grey;
+  font-size: 20px;
+  line-height: 15px;
+  text-align: center;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+p{
+  text-align: center;
+  line-height: 100%;
+
+}
+
+#define-yourself {
+  color: #18151B;
+}
+
+a:hover {
+  color: #C47E2D;
+}
+
+.img-circle {
+  border-radius: 50%;
+  line-height: 150%;
+  margin-top: 30px;
+
+}
+
+.text-center{
+  text-align: center;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  line-height: 150%;
+}
+
+div {
+  background: none;                          /* White background */
+  padding: 30px;                              /* Internal space */
+  border-radius: 4px;
+  border-color: #24303A                        /* Small radius */
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Subtle shadow */
+  /*border: 1px solid rgba(0, 0, 0, 0.1);*/
+}
+
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+
+}
+
+
+.card {
+  background: white;
+  border: solid;
+  border-radius: 6px
+  box-shadow: none;
+  padding: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  line-height: 150%;
+}
+
+.card ul {
+  list-style-type: none;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
